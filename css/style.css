@@ -11,19 +11,16 @@
     margin-top: 40px;
 }
 
-body {
-
-}
-
 /*description start*/
+#description{
+    margin-bottom: 20px;
+}
 #description-left-part {
-    height: 200px;
     padding-left: 30px;
     padding-top: 10px;
 }
 
 #description-right-part {
-    height: 200px;
     padding-top: 20px;
 }
 
@@ -40,6 +37,7 @@ body {
 }
 
 #description-image {
+    padding-top: 10px;
     height: 180px;
     width: 180px;
 }
@@ -61,37 +59,25 @@ body {
     color: white;
     padding-top: 20px;
 }
-
 /*contact end*/
 
-/*soft skills start*/
-#soft-skills {
-
-}
-
-/*soft skills end*/
-
-/*technical skills start*/
-#technical-skills {
-
-}
-
-/*technical skills end*/
-
 /*work experience start*/
-.work-experience-line-spacing{
+.work-experience-line-spacing {
     line-height: 20px;
 }
-.designation{
+
+.designation {
     font-size: 18pt;
 }
-.company{
+
+.company {
     font-size: 17pt;
 }
 
-.responsibility{
+.responsibility {
     font-size: 14pt;
     padding-top: 20px;
 }
+
 /*work experience end*/
 
