@@ -1,0 +1,97 @@
+.regular-font-size {
+    font-size: 12pt;
+}
+
+.text-headline {
+    font-size: 20pt;
+}
+
+.left-and-top-space {
+    padding-left: 50px;
+    margin-top: 40px;
+}
+
+body {
+
+}
+
+/*description start*/
+#description-left-part {
+    height: 200px;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+#description-right-part {
+    height: 200px;
+    padding-top: 20px;
+}
+
+#description-name {
+    font-size: 30pt;
+}
+
+#description-designation {
+    font-size: 20pt;
+}
+
+#description-bio {
+    font-size: 12pt;
+}
+
+#description-image {
+    height: 180px;
+    width: 180px;
+}
+
+/*description end*/
+
+/*contact start*/
+#contact {
+    background-color: #122b40;
+}
+
+#contact-left-part {
+    color: white;
+    padding-left: 70px;
+    padding-top: 20px;
+}
+
+#contact-right-part {
+    color: white;
+    padding-top: 20px;
+}
+
+/*contact end*/
+
+/*soft skills start*/
+#soft-skills {
+
+}
+
+/*soft skills end*/
+
+/*technical skills start*/
+#technical-skills {
+
+}
+
+/*technical skills end*/
+
+/*work experience start*/
+.work-experience-line-spacing{
+    line-height: 20px;
+}
+.designation{
+    font-size: 18pt;
+}
+.company{
+    font-size: 17pt;
+}
+
+.responsibility{
+    font-size: 14pt;
+    padding-top: 20px;
+}
+/*work experience end*/
+
