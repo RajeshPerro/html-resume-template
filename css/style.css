@@ -1,9 +1,5 @@
-.regular-font-size {
-    font-size: 12pt;
-}
-
-.text-headline {
-    font-size: 20pt;
+body {
+    font-family: 'Roboto', sans-serif;
 }
 
 .left-and-top-space {
@@ -11,10 +7,32 @@
     margin-top: 40px;
 }
 
+/*custom font styles start*/
+.thin-font-with-italic {
+    font-family: 'Roboto Thin', sans-serif;
+    font-style: italic;
+}
+
+.light-font-with-italic {
+    font-family: 'Roboto Light', sans-serif;
+    font-style: italic;
+}
+
+.regular-font-size {
+    font-size: 10pt;
+}
+
+.text-headline {
+    font-size: 20pt;
+}
+
+/*custom font styles end*/
+
 /*description start*/
-#description{
+#description {
     margin-bottom: 20px;
 }
+
 #description-left-part {
     padding-left: 30px;
     padding-top: 10px;
@@ -59,6 +77,7 @@
     color: white;
     padding-top: 20px;
 }
+
 /*contact end*/
 
 /*work experience start*/
@@ -75,9 +94,21 @@
 }
 
 .responsibility {
-    font-size: 14pt;
     padding-top: 20px;
 }
 
 /*work experience end*/
 
+/*soft skills start*/
+#soft-skills-list {
+    line-height: 42px;
+}
+
+/*soft skills end*/
+
+/*technical skill start*/
+.technical-skills-font-size {
+    font-size: 11pt;
+}
+
+/*technical skill end*/
